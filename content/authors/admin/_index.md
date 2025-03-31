@@ -71,11 +71,12 @@ education:
       - Foundation in linguistic theories (Syntax, semantics, phonetics and phonology)
       - Option papers: syntax, semantics, psycholinguistics
       - Thesis: Memory retrieval and garden-path reanalysis
+
   - area: MA Chinese linguistics and applied linguistics
     institution: Shanghai Jiao Tong University
     date_start: 2015-09-01
     date_end: 2018-06-30
-    summary: 
+    summary: |
       
       Courses included:
       - Linguistic core courses (Chinese Grammar, Comparative linguistics, Sociolinguistics, Language test theory, Teaching pedagogy)
